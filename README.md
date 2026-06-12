@@ -26,11 +26,9 @@
 
 I'm a self-driven software developer based in **Lagos, Nigeria**, building full-stack web apps with JavaScript and TypeScript. I think in systems — whether it's a React component tree, a Next.js data flow, or a chess opening. I care about clean code, real shipping, and work that solves actual problems.
 
-Outside the editor, I'm building a content channel that uses chess as a conceptual lens to explore **quantum physics, consciousness, and the nature of reality**. Think Vsauce meets philosophy of mind, with a board in the middle.
-
 - 🌍 Lagos, Nigeria
-- 💼 Open to remote roles & Lagos-based opportunities
-- 🧠 Currently exploring: AI-assisted workflows, content creation, edge deployment
+- 💼 Open to remote roles & tech opportunities
+- 🧠 Currently exploring: AI-assisted workflows, edge deployment
 - ♟ Chess metaphor enthusiast (yes, it's a whole thing)
 
 ---
@@ -63,7 +61,7 @@ A streamlined dev utility project built with TypeScript. Because good tooling is
 
 ---
 
-### [LEXIS_SYNC](https://github.com/syntax-devv/lexis-sync)
+### [LEXIS_SYNC](https://github.com/josh-devv/sync-org)
 > Language intelligence, synchronized.
 
 A Next.js-powered platform with real-time sync features. Built to demonstrate full-stack capability across auth, state, and data layers.
@@ -72,7 +70,7 @@ A Next.js-powered platform with real-time sync features. Built to demonstrate fu
 
 ---
 
-### [Documentation Platform](https://sofela.vercel.app)
+### [Documentation Platform](https://github.com/syntax-devv/soft-docs)
 > Clean docs, fast load, zero friction.
 
 A production-deployed Next.js documentation site. Live at [sofela.vercel.app](https://sofela.vercel.app) — built from scratch, no templates.
@@ -114,14 +112,14 @@ A production-deployed Next.js documentation site. Live at [sofela.vercel.app](ht
 
 ---
 
-## 🎯 2025 Focus
+## 🎯 2026 Focus
 
 ```javascript
 const israel = {
-  currentlyBuilding: ["content channel", "client projects", "open source tools"],
-  lookingFor:        ["remote contracts", "Lagos tech roles", "collabs"],
-  learning:          ["AI tooling", "edge functions", "motion design"],
-  chessMoves:        "e4"  // always
+  currentlyBuilding: ["sync-org", "client projects", "open source tools"],
+  lookingFor:        ["remote contracts", "tech roles", "collabs"],
+  learning:          ["AI tooling", "edge functions", "motion design", "quantum computing", "Go"],
+  chessMoves:        "1. c4"  // english opening
 };
 ```
 
