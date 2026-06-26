@@ -52,7 +52,7 @@ I'm a self-driven software developer based in **Lagos, Nigeria**, building full-
 
 ## 🚀 Projects
 
-### [TinyOps](https://github.com/syntax-devv/tinyops)
+### [TinyOps](https://github.com/sofelaisrael/tinyops)
 > Lightweight operations tooling — built for speed, deployed for real.
 
 A streamlined dev utility project built with TypeScript. Because good tooling is the difference between a good day and a lost afternoon.
@@ -70,7 +70,7 @@ A Next.js-powered platform with real-time sync features. Built to demonstrate fu
 
 ---
 
-### [Documentation Platform](https://github.com/syntax-devv/soft-docs)
+### [Documentation Platform](https://github.com/sofelaisrael/soft-docs)
 > Clean docs, fast load, zero friction.
 
 A production-deployed Next.js documentation site. Live at [sofela.vercel.app](https://sofela.vercel.app) — built from scratch, no templates.
@@ -101,9 +101,9 @@ A production-deployed Next.js documentation site. Live at [sofela.vercel.app](ht
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syntax-devv/syntax-devv/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syntax-devv/syntax-devv/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/syntax-devv/syntax-devv/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofelaisrael/sofelaisrael/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sofelaisrael/sofelaisrael/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sofelaisrael/sofelaisrael/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
