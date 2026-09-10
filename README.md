@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Israel+%E2%99%9F%EF%B8%8F;Full-Stack+Dev+%7C+Lagos%2C+Nigeria;JS+%2F+TS+%2F+React+%2F+Next.js;I+build+things+that+actually+ship.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Israel+%E2%99%9F%EF%B8%8F;Full-Stack+Dev+%7C+Lagos%2C+Nigeria;JS+%7C+TS+%7C+Go+%7C+Flutter+%7C+AI;I+build+things+that+actually+ship.)](https://git.io/typing-svg)
 
 ---
 
@@ -24,11 +24,11 @@
 
 ## ♟ About Me
 
-I'm a self-driven software developer based in **Lagos, Nigeria**, building full-stack web apps with JavaScript and TypeScript. I think in systems — whether it's a React component tree, a Next.js data flow, or a chess opening. I care about clean code, real shipping, and work that solves actual problems.
+I'm a self-driven software developer based in **Lagos, Nigeria**. I build full-stack web apps with JavaScript and TypeScript, mobile apps with Flutter, systems tools with Go, and I'm deeply interested in AI-assisted workflows. I think in systems — whether it's a React component tree, a Flutter widget tree, or a chess opening. I care about clean code, real shipping, and work that solves actual problems.
 
 - 🌍 Lagos, Nigeria
 - 💼 Open to remote roles & tech opportunities
-- 🧠 Currently exploring: AI-assisted workflows, edge deployment
+- 🧠 Currently exploring: AI/LLM integration, Go systems tooling, mobile engineering
 - ♟ Chess metaphor enthusiast (yes, it's a whole thing)
 
 ---
@@ -42,6 +42,10 @@ I'm a self-driven software developer based in **Lagos, Nigeria**, building full-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googleai&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -50,32 +54,41 @@ I'm a self-driven software developer based in **Lagos, Nigeria**, building full-
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### [TinyOps](https://github.com/sofelaisrael/tinyops)
-> Lightweight operations tooling — built for speed, deployed for real.
+### [sift](https://github.com/sofelaisrael/sift) — AI Mobile App ⭐
+> Screenshot → AI understands → Takes action
 
-A streamlined dev utility project built with TypeScript. Because good tooling is the difference between a good day and a lost afternoon.
+A Flutter mobile app that uses a Large Action Model to understand screenshots and auto-create calendar events, reminders, and shopping lists. On-device processing with Gemini Pro + ML Kit OCR. Published to Google Play testing. 63 tests. CI/CD via Codemagic.
 
-`TypeScript` · `Node.js` · `CLI`
-
----
-
-### [LEXIS_SYNC](https://github.com/josh-devv/sync-org)
-> Language intelligence, synchronized.
-
-A Next.js-powered platform with real-time sync features. Built to demonstrate full-stack capability across auth, state, and data layers.
-
-`Next.js` · `React` · `TypeScript` · `Realtime`
+`Flutter` · `Dart` · `Gemini AI` · `ML Kit` · `CI/CD`
 
 ---
 
-### [Documentation Platform](https://github.com/sofelaisrael/soft-docs)
-> Clean docs, fast load, zero friction.
+### [TinyOps](https://github.com/sofelaisrael/TinyOps) — Developer Tooling
+> 55+ curated CI/CD prompts for Vercel & GitHub Actions
 
-A production-deployed Next.js documentation site. Live at [sofela.vercel.app](https://sofela.vercel.app) — built from scratch, no templates.
+A Next.js web app where developers browse, search, and copy AI prompts for generating CI/CD workflows. Deployed on Vercel with MDX content, Framer Motion, and a DevOps audit tool.
 
-`Next.js` · `Markdown` · `Vercel`
+`Next.js` · `TypeScript` · `MDX` · `Tailwind`
+
+---
+
+### [gitective](https://github.com/sofelaisrael/gitective) — Go CLI
+> Investigating your Git history
+
+A Go CLI tool that analyses Git commit history and generates themed personality reports. Explores commit timing, activity patterns, and development behaviour through cyberpunk and renaissance themes.
+
+`Go` · `CLI` · `Git` · `Terminal UI`
+
+---
+
+### [portfolio](https://github.com/sofelaisrael/portfolio) — Creative Frontend
+> Developer portfolio with GSAP animations
+
+A React + Vite portfolio with GSAP animations, smooth scrolling, and creative visual effects. Live at [sofela.vercel.app](https://sofela.vercel.app).
+
+`React` · `Vite` · `GSAP` · `Tailwind`
 
 ---
 
@@ -116,9 +129,9 @@ A production-deployed Next.js documentation site. Live at [sofela.vercel.app](ht
 
 ```javascript
 const israel = {
-  currentlyBuilding: ["sync-org", "client projects", "open source tools"],
-  lookingFor:        ["remote contracts", "tech roles", "collabs"],
-  learning:          ["AI tooling", "edge functions", "motion design", "quantum computing", "Go"],
+  currentlyBuilding: ["sift (AI mobile app)", "gitective (Go CLI)", "open source tools"],
+  lookingFor:        ["remote roles", "tech opportunities", "collabs"],
+  learning:          ["AI/LLM integration", "Go", "systems design", "mobile engineering"],
   chessMoves:        "1. c4"  // english opening
 };
 ```
@@ -130,7 +143,6 @@ const israel = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sofela.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://sofela.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-syntax--devv-181717?style=for-the-badge&logo=github)](https://github.com/syntax-devv)
 [![GitHub](https://img.shields.io/badge/GitHub-sofelaisrael-181717?style=for-the-badge&logo=github)](https://github.com/sofelaisrael)
 
 </div>
