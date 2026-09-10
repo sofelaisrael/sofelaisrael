@@ -24,10 +24,10 @@
 
 ## ♟ About Me
 
-I'm a self-driven software developer based in **Lagos, Nigeria**. I build full-stack web apps with JavaScript and TypeScript, mobile apps with Flutter, systems tools with Go, and I'm deeply interested in AI-assisted workflows. I think in systems — whether it's a React component tree, a Flutter widget tree, or a chess opening. I care about clean code, real shipping, and work that solves actual problems.
+I'm a self-driven software developer based in **Lagos, Nigeria**. I build production mobile apps with Flutter, systems tools with Go, and full-stack web apps with JavaScript and TypeScript. I care about solving real problems — not just building tutorials.
 
 - 🌍 Lagos, Nigeria
-- 💼 Open to remote roles & tech opportunities
+- 💼 Open to remote roles & tech opportunities worldwide
 - 🧠 Currently exploring: AI/LLM integration, Go systems tooling, mobile engineering
 - ♟ Chess metaphor enthusiast (yes, it's a whole thing)
 
@@ -56,39 +56,39 @@ I'm a self-driven software developer based in **Lagos, Nigeria**. I build full-s
 
 ## 🚀 Featured Projects
 
-### [sift](https://github.com/sofelaisrael/sift) — AI Mobile App ⭐
-> Screenshot → AI understands → Takes action
+### [mansfield](https://github.com/sofelaisrael/mansfield) — Production Mobile App ⭐
+> Which bin goes out when? For every Nottinghamshire council.
 
-A Flutter mobile app that uses a Large Action Model to understand screenshots and auto-create calendar events, reminders, and shopping lists. On-device processing with Gemini Pro + ML Kit OCR. Published to Google Play testing. 63 tests. CI/CD via Codemagic.
+Flutter app serving all 8 Nottinghamshire councils with live collection schedules, weather forecasts, reminder notifications, and report forms. Each council uses a different API — WhiteSpace, Jadu, Recollect — with a Node.js proxy for CORS handling. 42 tests. CI/CD via Codemagic. App Store + Play Store ready.
 
-`Flutter` · `Dart` · `Gemini AI` · `ML Kit` · `CI/CD`
+`Flutter` · `Dart` · `8 APIs` · `Weather` · `Notifications` · `CI/CD`
 
 ---
 
-### [TinyOps](https://github.com/sofelaisrael/TinyOps) — Developer Tooling
-> 55+ curated CI/CD prompts for Vercel & GitHub Actions
+### [sift](https://github.com/sofelaisrael/sift) — AI Mobile App
+> Screenshot → AI understands → Takes action
 
-A Next.js web app where developers browse, search, and copy AI prompts for generating CI/CD workflows. Deployed on Vercel with MDX content, Framer Motion, and a DevOps audit tool.
+Flutter app that uses a Large Action Model to understand screenshots and auto-create calendar events, reminders, and shopping lists. On-device processing with Gemini Pro + ML Kit OCR. 63 tests. CI/CD via Codemagic.
 
-`Next.js` · `TypeScript` · `MDX` · `Tailwind`
+`Flutter` · `Dart` · `Gemini AI` · `ML Kit` · `CI/CD`
 
 ---
 
 ### [gitective](https://github.com/sofelaisrael/gitective) — Go CLI
 > Investigating your Git history
 
-A Go CLI tool that analyses Git commit history and generates themed personality reports. Explores commit timing, activity patterns, and development behaviour through cyberpunk and renaissance themes.
+Go CLI tool that analyses Git commit history and generates themed personality reports. Explores commit timing, activity patterns, and development behaviour through cyberpunk and renaissance themes.
 
 `Go` · `CLI` · `Git` · `Terminal UI`
 
 ---
 
-### [portfolio](https://github.com/sofelaisrael/portfolio) — Creative Frontend
-> Developer portfolio with GSAP animations
+### [TinyOps](https://github.com/sofelaisrael/TinyOps) — Developer Tooling
+> 55+ curated CI/CD prompts for Vercel & GitHub Actions
 
-A React + Vite portfolio with GSAP animations, smooth scrolling, and creative visual effects. Live at [sofela.vercel.app](https://sofela.vercel.app).
+Next.js web app where developers browse, search, and copy AI prompts for generating CI/CD workflows. Deployed on Vercel with MDX content, Framer Motion, and a DevOps audit tool.
 
-`React` · `Vite` · `GSAP` · `Tailwind`
+`Next.js` · `TypeScript` · `MDX` · `Tailwind`
 
 ---
 
@@ -129,7 +129,7 @@ A React + Vite portfolio with GSAP animations, smooth scrolling, and creative vi
 
 ```javascript
 const israel = {
-  currentlyBuilding: ["sift (AI mobile app)", "gitective (Go CLI)", "open source tools"],
+  currentlyBuilding: ["mansfield (production Flutter app)", "gitective (Go CLI)", "open source tools"],
   lookingFor:        ["remote roles", "tech opportunities", "collabs"],
   learning:          ["AI/LLM integration", "Go", "systems design", "mobile engineering"],
   chessMoves:        "1. c4"  // english opening
